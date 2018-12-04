@@ -1,2 +1,2 @@
 # NSQTest
-Simple NSQ producer / consumer proof of concept
+Simple [NSQ](https://github.com/nsqio/nsq) producer / consumer proof of concept
